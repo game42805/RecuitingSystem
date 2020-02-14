@@ -1,0 +1,9 @@
+{
+    "apps": [{
+     "exec_mode": "fork",
+     "instances": 1,
+     "script": "bin/www",
+     "name": "Freedome",
+     "interpreter": "node"
+    }]
+   }
